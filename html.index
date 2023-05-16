@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width,  initial-scale=1.0"/>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Sunflowers R' US</title>
+    </head>
+    <body>
+      <header id="header"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Sunflower_clip_art.svg/1200px-Sunflower_clip_art.svg.png" id="header-img"/>   
+        <h1>Sunflowers R' US</h1>
+        <nav id="nav-bar">
+          <a class="nav-link" href="#info">Features</a>
+          <a class="nav-link" href="#learn">Learn To Grow</a>
+          <a class="nav-link" href="#price-info">Pricing</a>
+        </nav>
+      </header>
+      <div class="mail-form">
+      <section>
+        <h2>Grow a ray of sunshine in your garden today!</h2>
+        </section>
+        <form id="form" action="https://www.freecodecamp.com/email-submit">
+<div class="mail"><input id="email" placeholder="Enter Your Email Address" type="email" name="email"></input></div>
+<div class="begin"><input id="submit" type="submit" value="Let's Begin"></input></div>
+      </form>
+      </div>
+      <main>
+      <section id="info">
+        <div class="icon">
+          <i class="fa fa-leaf"></i>
+          </div>
+<div class="info">
+  <h3 class="info-header">Ethically Sourced</h3>
+  <p>Organic and naturally grown seeds guaranteed to be free from pesticides and chemicals. Zero genetic modifications! Completely, GMO free! Seeds are grown and shipped straight from their native origins in Goodland, Kansas. All seeds proudly are stamped with the source of Kansas pride!</p>
+</div>
+<div class="icon">
+    <i class="fa fa-sun-o"></i>
+  </div>
+<div class="info">
+  <h3 class="info-header">High Quality Kansas Seeds</h3>
+  <p>We are highly committed to delivering to you the best seeds, so you may grow the strongest Sunflowers in your garden. All seeds are inspected on our farm in Kansas during harvest to ensure there is not damage or rot. Keeping with our enviromental promises, we are committed also to zero waste so seeds that don't meet standards are fed to local birds and wildlife or are composted!</p>
+  </div>
+  <div class="icon">
+    <i class="fa fa-bicycle"></i>
+    </div>
+  <div class="info">
+    <h3 class="info-header">Environmentally Friendly </h3>
+    <p>Our premium organic seeds are shipped in biodegradable packaging, just toss in your compost it is very easy! All shipments are eligible for refund should seeds not sprout within 7 to 10 days, of beginning the germination process.</p>
+    </div>
+        </section>
+        <section id="learn">
+<h3 class="how">How To Grow Our Seeds</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jp-ngQtP-q4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen id="video"></iframe>
+          </section>
+          
+            <section id="price-info">
+              <div class="buy">
+    <div class="basic">        <div class="tier">Just The Seeds</div>
+            <div class="pricing">
+              <h3 class="price-header">$125.00</h3>
+              <ol>
+                <li>Our Basic Plan.</li>
+                <li>Just Our Amazing </li>
+                <li>Seeds That's It!</li>
+                <li>1lb. Bag Of Seed.</li>
+              </ol>
+              <button class="button">Select</button>
+            </div>
+            </div>
+            </div>
+            <div class="buy">
+    <div class="middle">        <div class="mid-tier">Seeds+Compostable Seed Starters</div>
+            <div class="pricing-mid">
+              <h3 class="mid-price">$350.00</h3>
+              <ol> 
+                <li>1lb. Bag Of Our Seeds.</li>
+                <li>100 Compostable Seed Starter Pots.</li>
+                <li>Pots Drain Easily.</li>
+                <li>Plant Directly Into Soil!</li>
+                </ol>
+                <button class="mid-button">Select</button>
+              </div>
+              </div>
+ </div>             <div class="buy">
+  <div class="annual">            <div class="tier">Annual Grow Package</div>
+              <div class="pricing">
+                <h3 class="price-header">$700.00
+                  </h3>
+                <ol>
+                  <li>5lbs. Bag Of Our Seeds.</li>
+                  <li>400 Compostable Seed Starter Pots.</li>
+                  <li>2 Complimentary Grow Lights (indoor use only)</li>
+                  <li>4 Clay Terracotta Pots (18 in diameter)</li>
+                  </ol>
+                  <button class="button">Select</button>
+  </div>              </div>
+                </div>            
+            </section>
+          </main>
+          <footer id="footer">
+            <a href="#footer">Location</a>
+            <a href="#footer">Contact</a>
+            <a href="#footer">Privacy</a>   <br>
+            Copyright &copy;2023 Sunflowers R' US
+          </footer>
+      </body>
+  </html>
